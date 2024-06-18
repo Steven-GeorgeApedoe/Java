@@ -9,7 +9,6 @@ public class Main {
         System.out.println("Hello world!");
         name("Stybo");//This is an alternative way of bringing out something
 
-        //Learning Getters and setters
 
 
     }
