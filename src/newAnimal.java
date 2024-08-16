@@ -2,9 +2,9 @@ public class newAnimal {
     public void makeSound(){
     }
 }
-class Cat extends newAnimal{
+class Cat extends newAnimal  {
     public void makeSound(){
-        System.out.println("Meow");
+        System.out.println("Nothing to see");
     }
 }
 class Snake extends newAnimal{
