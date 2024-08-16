@@ -109,7 +109,7 @@ public class Main {
             }
         }
         //using for each loop to calculate sum
-        int[] add ={2,4,6,8,9,22};
+        int[] add = {2,4,6,8,9,22};
         int added = 0;
         for (int x: add){
             added +=x;
